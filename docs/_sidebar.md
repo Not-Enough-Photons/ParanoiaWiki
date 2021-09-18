@@ -1,3 +1,4 @@
 * [Welcome](/)
 
-* [Introduction](/main-pages/Introduction.md)
+* [Ticks](/main-pages/Ticks.md)
+* [Hallucinations](/main-pages/Hallucinations.md)
