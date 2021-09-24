@@ -18,6 +18,7 @@
 		* [E_ChangeInsanity](/main-pages/Reference/Events/E_ChangeInsanity.md)
 		* [E_ChangeRNG](/main-pages/Reference/Events/E_ChangeRNG.md)
 	* Mirage Events
+		* [M_SpawnMirage](/main-pages/Reference/MirageEvents/M_SpawnMirage.md)
 		* [M_AmbientAudioSpawn](/main-pages/Reference/MirageEvents/M_AmbientAudioSpawn.md)
 		* [M_AmbientChaserSpawn](/main-pages/Reference/MirageEvents/M_AmbientChaserSpawn.md)
 		* [M_AmbientDarkVoiceSpawn](/main-pages/Reference/MirageEvents/M_AmbientDarkVoiceSpawn.md)
